@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:scade="http://www.scade.io/v0.1" widget-name="main" eObject-URI="main.page#/0" width="428" height="926">
+  <rect template-id="background" width="100%" height="100%" fill="#21222c" />
+  <svg template-id="content-box">
+    <g template-id="content">
+      <svg widget-name="NavBar" eObject-URI="main.page#/0/@children.0" width="428" height="66">
+        <svg template-id="content-box">
+          <g template-id="content">
+            <svg widget-name="profileLabel" eObject-URI="main.page#/0/@children.0/@children.0" x="5" y="5" width="120" height="56">
+              <svg template-id="content-box" x="20" y="20" width="100" height="36">
+                <g template-id="content">
+                  <text alignment-baseline="central" font-size="32" font-family="Arial-BoldMT" font-style="normal" text-decoration="none" template-id="node-text" x="0" y="18" fill="#ffffff">Profile</text>
+                </g>
+              </svg>
+            </svg>
+            <svg widget-name="settingsIcon" eObject-URI="main.page#/0/@children.0/@children.1" x="351" y="7" width="72" height="52">
+              <svg template-id="content-box" x="20" y="20" width="32" height="32">
+                <g template-id="content">
+                  <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" template-id="content-background" width="32" height="32" fill="none">
+                    <path stroke-width="2" d="M 18.1149 7 C 18.1209 7 18.1255 7.00525 18.1248 7.01121 C 17.9923 8.15791 18.5668 9.32414 19.6869 9.93793 C 20.7345 10.5121 21.9845 10.4522 22.9437 9.88369 C 22.9484 9.88086 22.9546 9.88245 22.9574 9.88724 L 24.9947 13.3681 C 24.9976 13.373 24.9958 13.3793 24.9908 13.382 C 24.0263 13.8957 23.3746 14.8757 23.3746 16.0001 C 23.3746 17.1245 24.0263 18.1044 24.9907 18.6181 C 24.9957 18.6208 24.9975 18.6271 24.9947 18.632 L 22.9574 22.1128 C 22.9546 22.1176 22.9484 22.1192 22.9437 22.1163 C 21.9845 21.5479 20.7345 21.488 19.6869 22.0621 C 18.5669 22.6759 17.9924 23.8421 18.1248 24.9888 C 18.1255 24.9947 18.1208 25 18.1149 25 H 13.8843 C 13.8783 25 13.8736 24.9947 13.8743 24.9888 C 14.0068 23.8421 13.4323 22.6759 12.3123 22.0621 C 11.2649 21.4881 10.0152 21.5478 9.05612 22.1159 C 9.05134 22.1188 9.04516 22.1172 9.04236 22.1124 L 7.00535 18.632 C 7.00247 18.6271 7.00429 18.6208 7.00931 18.6181 C 7.97372 18.1044 8.6254 17.1245 8.6254 16.0001 C 8.6254 14.8757 7.97369 13.8957 7.00924 13.382 C 7.00421 13.3793 7.0024 13.373 7.00528 13.3681 L 9.04234 9.88763 C 9.04515 9.88283 9.05133 9.88125 9.05611 9.88408 C 10.0152 10.4522 11.2649 10.5119 12.3123 9.93793 C 13.4323 9.32414 14.0068 8.15791 13.8743 7.01121 C 13.8736 7.00525 13.8783 7 13.8843 7 L 18.1149 7 z" stroke="#ffffff" />
+                    <circle stroke-width="2" cx="16" cy="16" r="3" stroke="#ffffff" />
+                  </svg>
+                  <text text-anchor="middle" alignment-baseline="central" font-size="17" font-family="ArialMT" font-style="normal" text-decoration="none" template-id="node-text" x="16" y="16" fill="#446ab3" />
+                </g>
+              </svg>
+            </svg>
+          </g>
+        </svg>
+      </svg>
+      <svg eObject-URI="main.page#/0/@children.1" widget-name="UpperSection" y="232" width="428" height="351">
+        <svg template-id="content-box">
+          <g template-id="content">
+            <svg eObject-URI="main.page#/0/@children.1/@children.0" widget-name="starIcon" x="15" y="5" width="398" height="128">
+              <svg template-id="content-box" x="20" width="358" height="128">
+                <g template-id="content">
+                  <svg viewBox="0 0 128 128" template-id="content-background" xmlns="http://www.w3.org/2000/svg" x="115" width="128" height="128" fill="none">
+                    <circle cx="64" cy="64" r="64" fill="#d0e16" />
+                    <path stroke-width="6" d="M 63.9993 85 C 15.8211 58.9884 49.5465 30.7511 63.9993 48.6066 C 78.454 30.7511 112.179 58.9884 63.9993 85 z" stroke="#323441" />
+                  </svg>
+                  <text text-anchor="middle" alignment-baseline="central" font-size="17" font-family="ArialMT" font-style="normal" text-decoration="none" template-id="node-text" x="179" y="64" fill="#446ab3" />
+                </g>
+              </svg>
+            </svg>
+            <svg eObject-URI="main.page#/0/@children.1/@children.1" widget-name="reviewsAndRatingLabel" x="15" y="133" width="398" height="107">
+              <svg template-id="content-box" width="398" height="107">
+                <g template-id="content">
+                  <text text-anchor="middle" alignment-baseline="central" font-size="20" font-family="Microsoft Sans Serif" font-style="normal" text-decoration="none" template-id="node-text" x="199" y="53.5" fill="#ffffff">Sign in to access Reviews and Rating</text>
+                </g>
+              </svg>
+            </svg>
+            <svg eObject-URI="main.page#/0/@children.1/@children.2" widget-name="keeptrackLabel" x="15" y="240" width="398" height="106">
+              <svg template-id="content-box" width="398" height="106">
+                <g template-id="content">
+                  <text alignment-baseline="central" font-size="14" font-family="ArialMT" font-style="normal" text-decoration="none" maxWidth="398" template-id="node-text" x="0" y="0" fill="#ffffff">Save shows and movies to keep track of what you want to watch</text>
+                </g>
+              </svg>
+            </svg>
+          </g>
+        </svg>
+      </svg>
+      <svg eObject-URI="main.page#/0/@children.2" widget-name="SigninActionView" y="583" width="428" height="291">
+        <svg template-id="content-box">
+          <g template-id="content">
+            <svg eObject-URI="main.page#/0/@children.2/@children.0" widget-name="signinButton" x="59" y="67" width="311" height="58">
+              <rect template-id="background" width="100%" height="100%" rx="6%" fill="#ff3399" />
+              <svg template-id="content-box" x="20" width="271" height="58">
+                <g template-id="content">
+                  <text text-anchor="middle" alignment-baseline="central" font-size="18" font-family="Arial-BoldMT" font-style="normal" text-decoration="none" template-id="node-text" x="135.5" y="29" fill="#fdfff7">Sign in</text>
+                </g>
+              </svg>
+            </svg>
+          </g>
+        </svg>
+      </svg>
+      <svg eObject-URI="main.page#/0/@children.3" widget-name="TabBar" y="874" width="428" height="52">
+        <svg template-id="content-box">
+          <g template-id="content">
+            <svg eObject-URI="main.page#/0/@children.3/@children.0" widget-name="tabBarItem1" width="107" height="52">
+              <svg template-id="content-box">
+                <g template-id="content">
+                  <svg eObject-URI="main.page#/0/@children.3/@children.0/@children.0" widget-name="homeIcon" width="107" height="52">
+                    <svg template-id="content-box" x="20" width="67" height="52">
+                      <g template-id="content">
+                        <svg viewBox="0 0 80 32" template-id="content-background" xmlns="http://www.w3.org/2000/svg" x="-6.5" y="10" width="80" height="32" fill="none">
+                          <path stroke-width="3" stroke-linejoin="round" stroke-linecap="round" d="M 50.6727 13.9967 L 40.672 4.7641 C 40.4879 4.59415 40.2481 4.49999 39.9993 4.5 C 39.7505 4.50001 39.5106 4.59419 39.3266 4.76414 L 29.3273 13.9967 C 29.2242 14.0919 29.1418 14.2078 29.0855 14.3372 C 29.0291 14.4666 29 14.6065 29 14.748 V 26.4845 C 29 26.7538 29.1054 27.0121 29.2929 27.2026 C 29.4804 27.393 29.7348 27.5 30 27.5 H 50 C 50.2652 27.5 50.5196 27.393 50.7071 27.2026 C 50.8946 27.0121 51 26.7538 51 26.4845 V 14.748 C 51 14.6066 50.9709 14.4666 50.9145 14.3372 C 50.8582 14.2078 50.7758 14.0918 50.6727 13.9967 z" stroke="#ffffff" />
+                        </svg>
+                        <text text-anchor="middle" alignment-baseline="central" font-size="17" font-family="ArialMT" font-style="normal" text-decoration="none" template-id="node-text" x="33.5" y="26" fill="#446ab3" />
+                      </g>
+                    </svg>
+                  </svg>
+                </g>
+              </svg>
+            </svg>
+            <svg eObject-URI="main.page#/0/@children.3/@children.1" widget-name="tabBarItem2" x="107" width="107" height="52">
+              <svg template-id="content-box">
+                <g template-id="content">
+                  <svg eObject-URI="main.page#/0/@children.3/@children.1/@children.0" widget-name="searchIcon" width="107" height="52">
+                    <svg template-id="content-box" x="20" width="67" height="52">
+                      <g template-id="content">
+                        <svg viewBox="0 0 80 32" template-id="content-background" xmlns="http://www.w3.org/2000/svg" x="-6.5" y="10" width="80" height="32" fill="none">
+                          <path stroke-width="3" stroke-linejoin="round" stroke-linecap="round" d="M 38.5 25 C 44.299 25 49 20.299 49 14.5 C 49 8.70101 44.299 4 38.5 4 C 32.701 4 28 8.70101 28 14.5 C 28 20.299 32.701 25 38.5 25 z" stroke="#ffffff" />
+                          <path stroke-width="3" stroke-linejoin="round" stroke-linecap="round" d="M 45.9242 21.925 L 51.9993 28.0001" stroke="#ffffff" />
+                        </svg>
+                        <text text-anchor="middle" alignment-baseline="central" font-size="17" font-family="ArialMT" font-style="normal" text-decoration="none" template-id="node-text" x="33.5" y="26" fill="#446ab3" />
+                      </g>
+                    </svg>
+                  </svg>
+                </g>
+              </svg>
+            </svg>
+            <svg eObject-URI="main.page#/0/@children.3/@children.2" widget-name="tabBarItem3" x="214" width="107" height="52">
+              <svg template-id="content-box">
+                <g template-id="content">
+                  <svg eObject-URI="main.page#/0/@children.3/@children.2/@children.0" widget-name="favoriteIcon" width="107" height="52">
+                    <svg template-id="content-box" x="20" width="67" height="52">
+                      <g template-id="content">
+                        <svg viewBox="0 0 80 32" template-id="content-background" xmlns="http://www.w3.org/2000/svg" x="-6.5" y="10" width="80" height="32" fill="none">
+                          <path stroke-width="3" d="M 39.9997 26.5 C 15.9106 13.4942 32.7733 -0.62445 39.9997 8.30331 C 47.227 -0.624454 64.0897 13.4942 39.9997 26.5 z" stroke="#ffffff" />
+                        </svg>
+                        <text text-anchor="middle" alignment-baseline="central" font-size="17" font-family="ArialMT" font-style="normal" text-decoration="none" template-id="node-text" x="33.5" y="26" fill="#446ab3" />
+                      </g>
+                    </svg>
+                  </svg>
+                </g>
+              </svg>
+            </svg>
+            <svg eObject-URI="main.page#/0/@children.3/@children.3" widget-name="tabBarItem4" x="321" width="107" height="52">
+              <svg template-id="content-box">
+                <g template-id="content">
+                  <svg eObject-URI="main.page#/0/@children.3/@children.3/@children.0" widget-name="profileIcon" width="107" height="52">
+                    <svg template-id="content-box" x="20" width="67" height="52">
+                      <g template-id="content">
+                        <svg viewBox="0 0 80 32" template-id="content-background" xmlns="http://www.w3.org/2000/svg" x="-6.5" y="10" width="80" height="32" fill="none">
+                          <path d="M 12.7016 13.1504 C 13.4946 13.1504 13.9526 12.6787 13.9526 11.8447 V 10.1084 H 15.5659 C 17.7602 10.1084 19.271 8.73438 19.271 6.62891 C 19.271 4.50977 17.8354 3.13574 15.7163 3.13574 H 12.7016 C 11.9087 3.13574 11.4438 3.61426 11.4438 4.44824 V 11.8447 C 11.4438 12.6787 11.9087 13.1504 12.7016 13.1504 z M 13.9526 8.22168 V 5.05664 H 15.0532 C 16.1059 5.05664 16.7348 5.61035 16.7348 6.63574 C 16.7348 7.66797 16.1059 8.22168 15.0395 8.22168 H 13.9526 z M 21.923 13.1572 C 22.716 13.1572 23.174 12.6787 23.174 11.8516 V 9.54785 H 24.6096 L 26.0725 12.1797 C 26.4963 12.9453 26.7561 13.1572 27.3645 13.1572 C 28.0959 13.1572 28.6154 12.6787 28.6154 12.0156 C 28.6154 11.7217 28.5676 11.5166 28.3488 11.1543 L 27.1389 9.09668 C 28.1437 8.59082 28.677 7.55176 28.677 6.38965 C 28.677 4.35254 27.3508 3.13574 24.8898 3.13574 H 21.923 C 21.1301 3.13574 20.6652 3.61426 20.6652 4.44824 V 11.8516 C 20.6652 12.6787 21.1301 13.1572 21.923 13.1572 z M 23.174 7.83203 V 5.0293 H 24.6369 C 25.5324 5.0293 26.1135 5.59668 26.1135 6.4375 C 26.1135 7.29199 25.5666 7.83203 24.6437 7.83203 H 23.174 z M 34.8154 13.1709 C 37.8027 13.1709 39.6825 11.2158 39.6825 8.07129 C 39.6825 4.92676 37.8027 2.96484 34.8154 2.96484 C 31.828 2.96484 29.9413 4.92676 29.9413 8.07129 C 29.9413 11.2158 31.8212 13.1709 34.8154 13.1709 z M 34.8154 11.1338 C 33.4071 11.1338 32.498 9.94434 32.498 8.07129 C 32.498 6.19141 33.414 5.00195 34.8154 5.00195 C 36.2167 5.00195 37.1327 6.19141 37.1327 8.07129 C 37.1327 9.94434 36.2167 11.1338 34.8154 11.1338 z M 42.444 13.1504 C 43.237 13.1504 43.695 12.6787 43.695 11.8447 V 9.32227 H 46.5934 C 47.2428 9.32227 47.6393 8.9668 47.6393 8.36523 C 47.6393 7.75684 47.2291 7.40137 46.5934 7.40137 H 43.695 V 5.15918 H 46.9147 C 47.5778 5.15918 48.0289 4.79004 48.0289 4.14746 C 48.0289 3.50488 47.5914 3.13574 46.9147 3.13574 H 42.444 C 41.651 3.13574 41.1862 3.61426 41.1862 4.44824 V 11.8447 C 41.1862 12.6787 41.651 13.1504 42.444 13.1504 z M 50.5443 13.1504 C 51.3373 13.1504 51.7953 12.6787 51.7953 11.8447 V 4.29102 C 51.7953 3.45703 51.3373 2.98535 50.5443 2.98535 C 49.7513 2.98535 49.2865 3.45703 49.2865 4.29102 V 11.8447 C 49.2865 12.6787 49.7513 13.1504 50.5443 13.1504 z M 54.8302 13 H 59.171 C 59.8477 13 60.2852 12.6309 60.2852 11.9883 C 60.2852 11.3457 59.8409 10.9766 59.171 10.9766 H 56.0811 V 4.29102 C 56.0811 3.45703 55.6231 2.98535 54.8302 2.98535 C 54.0372 2.98535 53.5723 3.45703 53.5723 4.29102 V 11.6875 C 53.5723 12.5215 54.0372 13 54.8302 13 z M 62.8484 13 H 67.367 C 68.0438 13 68.4813 12.6309 68.4813 11.9883 C 68.4813 11.3457 68.0301 10.9766 67.367 10.9766 H 64.0994 V 8.9668 H 67.2166 C 67.8387 8.9668 68.2283 8.625 68.2283 8.04395 C 68.2283 7.46289 67.825 7.12109 67.2166 7.12109 H 64.0994 V 5.15918 H 67.367 C 68.0301 5.15918 68.4813 4.79004 68.4813 4.14746 C 68.4813 3.50488 68.0438 3.13574 67.367 3.13574 H 62.8484 C 62.0555 3.13574 61.5906 3.61426 61.5906 4.44824 V 11.6875 C 61.5906 12.5215 62.0555 13 62.8484 13 z" fill="#ffffff" />
+                          <circle cx="40" cy="29" r="3" fill="#ff3399" />
+                        </svg>
+                        <text text-anchor="middle" alignment-baseline="central" font-size="17" font-family="ArialMT" font-style="normal" text-decoration="none" template-id="node-text" x="33.5" y="26" fill="#446ab3" />
+                      </g>
+                    </svg>
+                  </svg>
+                </g>
+              </svg>
+            </svg>
+          </g>
+        </svg>
+      </svg>
+    </g>
+  </svg>
+</svg>
