@@ -27,28 +27,28 @@
           </g>
         </svg>
       </svg>
-      <svg eObject-URI="main.page#/0/@children.1" widget-name="UpperSection" y="232" width="428" height="351">
+      <svg widget-name="UpperSection" eObject-URI="main.page#/0/@children.1" y="232" width="428" height="351">
         <svg template-id="content-box">
           <g template-id="content">
-            <svg eObject-URI="main.page#/0/@children.1/@children.0" widget-name="starIcon" x="15" y="5" width="398" height="128">
+            <svg widget-name="starIcon" eObject-URI="main.page#/0/@children.1/@children.0" x="15" y="5" width="398" height="128">
               <svg template-id="content-box" x="20" width="358" height="128">
                 <g template-id="content">
                   <svg viewBox="0 0 128 128" template-id="content-background" xmlns="http://www.w3.org/2000/svg" x="115" width="128" height="128" fill="none">
                     <circle cx="64" cy="64" r="64" fill="#d0e16" />
-                    <path stroke-width="6" d="M 63.9993 85 C 15.8211 58.9884 49.5465 30.7511 63.9993 48.6066 C 78.454 30.7511 112.179 58.9884 63.9993 85 z" stroke="#323441" />
+                    <path stroke-width="6" d="M 63.905 41.6237 C 63.935 41.5319 64.065 41.5319 64.095 41.6237 L 69.6634 58.6422 C 69.6647 58.6463 69.6686 58.649 69.6729 58.649 H 87.6905 C 87.7875 58.649 87.8277 58.7734 87.749 58.8301 L 73.1731 69.3465 C 73.1696 69.3491 73.1681 69.3536 73.1695 69.3577 L 78.7373 86.3747 C 78.7674 86.4667 78.6623 86.5435 78.5838 86.4869 L 64.0059 75.9691 C 64.0024 75.9665 63.9976 75.9665 63.9941 75.9691 L 49.4162 86.4869 C 49.3377 86.5435 49.2326 86.4667 49.2627 86.3747 L 54.8305 69.3577 C 54.8319 69.3536 54.8304 69.3491 54.8269 69.3465 L 40.251 58.8301 C 40.1723 58.7734 40.2125 58.649 40.3095 58.649 H 58.3271 C 58.3314 58.649 58.3353 58.6463 58.3366 58.6422 L 63.905 41.6237 z" stroke="#323441" />
                   </svg>
                   <text text-anchor="middle" alignment-baseline="central" font-size="17" font-family="ArialMT" font-style="normal" text-decoration="none" template-id="node-text" x="179" y="64" fill="#446ab3" />
                 </g>
               </svg>
             </svg>
-            <svg eObject-URI="main.page#/0/@children.1/@children.1" widget-name="reviewsAndRatingLabel" x="15" y="133" width="398" height="107">
+            <svg widget-name="reviewsAndRatingLabel" eObject-URI="main.page#/0/@children.1/@children.1" x="15" y="133" width="398" height="107">
               <svg template-id="content-box" width="398" height="107">
                 <g template-id="content">
                   <text text-anchor="middle" alignment-baseline="central" font-size="20" font-family="Microsoft Sans Serif" font-style="normal" text-decoration="none" template-id="node-text" x="199" y="53.5" fill="#ffffff">Sign in to access Reviews and Rating</text>
                 </g>
               </svg>
             </svg>
-            <svg eObject-URI="main.page#/0/@children.1/@children.2" widget-name="keeptrackLabel" x="15" y="240" width="398" height="106">
+            <svg widget-name="keeptrackLabel" eObject-URI="main.page#/0/@children.1/@children.2" x="15" y="240" width="398" height="106">
               <svg template-id="content-box" width="398" height="106">
                 <g template-id="content">
                   <text alignment-baseline="central" font-size="14" font-family="ArialMT" font-style="normal" text-decoration="none" maxWidth="398" template-id="node-text" x="0" y="0" fill="#ffffff">Save shows and movies to keep track of what you want to watch</text>
@@ -58,10 +58,10 @@
           </g>
         </svg>
       </svg>
-      <svg eObject-URI="main.page#/0/@children.2" widget-name="SigninActionView" y="583" width="428" height="291">
+      <svg widget-name="SigninActionView" eObject-URI="main.page#/0/@children.2" y="583" width="428" height="291">
         <svg template-id="content-box">
           <g template-id="content">
-            <svg eObject-URI="main.page#/0/@children.2/@children.0" widget-name="signinButton" x="59" y="67" width="311" height="58">
+            <svg widget-name="signinButton" eObject-URI="main.page#/0/@children.2/@children.0" x="59" y="67" width="311" height="58">
               <rect template-id="background" width="100%" height="100%" rx="6%" fill="#ff3399" />
               <svg template-id="content-box" x="20" width="271" height="58">
                 <g template-id="content">
@@ -72,13 +72,13 @@
           </g>
         </svg>
       </svg>
-      <svg eObject-URI="main.page#/0/@children.3" widget-name="TabBar" y="874" width="428" height="52">
+      <svg widget-name="TabBar" eObject-URI="main.page#/0/@children.3" y="874" width="428" height="52">
         <svg template-id="content-box">
           <g template-id="content">
-            <svg eObject-URI="main.page#/0/@children.3/@children.0" widget-name="tabBarItem1" width="107" height="52">
+            <svg widget-name="tabBarItem1" eObject-URI="main.page#/0/@children.3/@children.0" width="107" height="52">
               <svg template-id="content-box">
                 <g template-id="content">
-                  <svg eObject-URI="main.page#/0/@children.3/@children.0/@children.0" widget-name="homeIcon" width="107" height="52">
+                  <svg widget-name="homeIcon" eObject-URI="main.page#/0/@children.3/@children.0/@children.0" width="107" height="52">
                     <svg template-id="content-box" x="20" width="67" height="52">
                       <g template-id="content">
                         <svg viewBox="0 0 80 32" template-id="content-background" xmlns="http://www.w3.org/2000/svg" x="-6.5" y="10" width="80" height="32" fill="none">
@@ -91,10 +91,10 @@
                 </g>
               </svg>
             </svg>
-            <svg eObject-URI="main.page#/0/@children.3/@children.1" widget-name="tabBarItem2" x="107" width="107" height="52">
+            <svg widget-name="tabBarItem2" eObject-URI="main.page#/0/@children.3/@children.1" x="107" width="107" height="52">
               <svg template-id="content-box">
                 <g template-id="content">
-                  <svg eObject-URI="main.page#/0/@children.3/@children.1/@children.0" widget-name="searchIcon" width="107" height="52">
+                  <svg widget-name="searchIcon" eObject-URI="main.page#/0/@children.3/@children.1/@children.0" width="107" height="52">
                     <svg template-id="content-box" x="20" width="67" height="52">
                       <g template-id="content">
                         <svg viewBox="0 0 80 32" template-id="content-background" xmlns="http://www.w3.org/2000/svg" x="-6.5" y="10" width="80" height="32" fill="none">
@@ -108,10 +108,10 @@
                 </g>
               </svg>
             </svg>
-            <svg eObject-URI="main.page#/0/@children.3/@children.2" widget-name="tabBarItem3" x="214" width="107" height="52">
+            <svg widget-name="tabBarItem3" eObject-URI="main.page#/0/@children.3/@children.2" x="214" width="107" height="52">
               <svg template-id="content-box">
                 <g template-id="content">
-                  <svg eObject-URI="main.page#/0/@children.3/@children.2/@children.0" widget-name="favoriteIcon" width="107" height="52">
+                  <svg widget-name="favoriteIcon" eObject-URI="main.page#/0/@children.3/@children.2/@children.0" width="107" height="52">
                     <svg template-id="content-box" x="20" width="67" height="52">
                       <g template-id="content">
                         <svg viewBox="0 0 80 32" template-id="content-background" xmlns="http://www.w3.org/2000/svg" x="-6.5" y="10" width="80" height="32" fill="none">
@@ -124,10 +124,10 @@
                 </g>
               </svg>
             </svg>
-            <svg eObject-URI="main.page#/0/@children.3/@children.3" widget-name="tabBarItem4" x="321" width="107" height="52">
+            <svg widget-name="tabBarItem4" eObject-URI="main.page#/0/@children.3/@children.3" x="321" width="107" height="52">
               <svg template-id="content-box">
                 <g template-id="content">
-                  <svg eObject-URI="main.page#/0/@children.3/@children.3/@children.0" widget-name="profileIcon" width="107" height="52">
+                  <svg widget-name="profileIcon" eObject-URI="main.page#/0/@children.3/@children.3/@children.0" width="107" height="52">
                     <svg template-id="content-box" x="20" width="67" height="52">
                       <g template-id="content">
                         <svg viewBox="0 0 80 32" template-id="content-background" xmlns="http://www.w3.org/2000/svg" x="-6.5" y="10" width="80" height="32" fill="none">
