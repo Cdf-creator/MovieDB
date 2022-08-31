@@ -79,27 +79,24 @@
         <maxSize width="-1" height="-1"/>
       </layoutData>
     </children>
-    <children xsi:type="widgets:Container" name="SigninActionView">
-      <children xsi:type="widgets:Button" text="Sign in" horizontalAlignment="CENTER" cornerRadius="12" name="signinButton" paddingRight="20" paddingLeft="20">
-        <font fontFamily="Arial-BoldMT" size="18">
-          <color Red="253" Green="255" Blue="247"/>
+    <children xsi:type="widgets:ListView" paddingLeft="5" name="SigninActionView" paddingRight="5" paddingTop="60" paddingBottom="5">
+      <children xsi:type="widgets:Button" horizontalAlignment="CENTER" paddingLeft="20" name="signinButton" paddingRight="20">
+        <font fontFamily="ArialMT" size="17">
+          <color Red="68" Green="106" Blue="179"/>
         </font>
-        <location x="59" y="67"/>
-        <size width="311" height="58"/>
-        <contentSize width="60" height="20"/>
-        <layoutData xsi:type="layout:AutoLayoutData">
-          <constraints sourceAnchor="WIDTH" constant="311" source="/0/@children.2/@children.0"/>
-          <constraints sourceAnchor="HEIGHT" constant="58" source="/0/@children.2/@children.0"/>
-          <constraints sourceAnchor="CENTER_X" targetAnchor="CENTER_X" source="/0/@children.2/@children.0" target="/0/@children.2"/>
+        <layoutData xsi:type="layout:GridData" horizontalAlignment="CENTER" grabHorizontalSpace="true" grabVerticalSpace="true">
+          <maxSize width="-1" height="-1"/>
         </layoutData>
-        <backgroundColor Red="255" Green="51" Blue="153"/>
+        <location x="38" y="60"/>
+        <size width="351" height="58"/>
+        <contentSize width="311" height="58"/>
       </children>
-      <layout xsi:type="layout:AutoLayout"/>
+      <layout xsi:type="layout:GridLayout"/>
       <maxArea width="-1" height="-1"/>
       <location y="583"/>
       <minArea/>
       <size width="428" height="291"/>
-      <layoutData xsi:type="layout:GridData" row="2" grabVerticalSpace="true" horizontalAlignment="CENTER" grabHorizontalSpace="true" widthConstraint="MATCH_PARENT">
+      <layoutData xsi:type="layout:GridData" row="2" verticalAlignment="MIDDLE" heightConstraint="MATCH_PARENT" grabHorizontalSpace="true" grabVerticalSpace="true" widthConstraint="MATCH_PARENT">
         <maxSize width="-1" height="-1"/>
       </layoutData>
     </children>
